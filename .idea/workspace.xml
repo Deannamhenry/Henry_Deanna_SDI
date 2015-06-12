@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="138b2624-f04d-4f7b-9ee6-38e89012a3d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Henry_Deanna_Expressions_Assignment/Index.html" afterPath="$PROJECT_DIR$/Henry_Deanna_Expressions_Assignment/Index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Henry_Deanna_Expressions_Assignment/Javascript/Script_Expressions.js" afterPath="$PROJECT_DIR$/Henry_Deanna_Expressions_Assignment/Javascript/Script_Expressions.js" />
     </list>
     <ignored path="Henry_Deanna_SDI.iws" />
@@ -37,8 +36,8 @@
       <file leaf-file-name="Script_Expressions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Henry_Deanna_Expressions_Assignment/Javascript/Script_Expressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85714287">
-              <caret line="42" column="95" selection-start-line="42" selection-start-column="95" selection-end-line="42" selection-end-column="95" />
+            <state vertical-scroll-proportion="0.877551">
+              <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -253,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Henry_Deanna_Expressions_Assignment/Javascript/Script_Expressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85714287">
-          <caret line="42" column="95" selection-start-line="42" selection-start-column="95" selection-end-line="42" selection-end-column="95" />
+        <state vertical-scroll-proportion="0.877551">
+          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
           <folding />
         </state>
       </provider>

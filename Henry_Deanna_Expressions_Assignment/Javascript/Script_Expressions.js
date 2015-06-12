@@ -19,7 +19,7 @@ console.log(name);
 
 // add personal touch
 
-alert("Thank you "+name+". Now lets figure out that missing number!")
+alert("Thank you "+name+". Now lets figure out that missing number!");
 
 // Ask user for info on angle
 
@@ -41,4 +41,4 @@ var side3 = degree - side1 - side2;
 alert("Ok "+name+", the missing degree angle is "+side3+"");
 
 //test code. Code works entered in differnt number with calc on the side both gave same answers
-which would be 180 (degree)- side1 (50)- side2 (60) equals side3 (70)
+//which would be 180 (degree)- side1 (50)- side2 (60) equals side3 (70)

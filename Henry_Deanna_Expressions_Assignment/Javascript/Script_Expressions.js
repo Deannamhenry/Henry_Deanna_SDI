@@ -14,9 +14,12 @@
 
 alert("Welcome to Triangle Calc!");
 
+var name = prompt("Hi! What is your name?");
+console.log(name;)
+
 // Ask user for info on angle
 
-var side1 = prompt("What is the degree of your first side?")
+var side1 = prompt("What is the degree of your first side?");
 console.log(side1);
 
 // Ask user for side 2 of angle
@@ -24,13 +27,13 @@ console.log(side1);
 var side2 = prompt("Please enter the second side ");
 console.log(side2);
 
-alert("Thank you for the information")
+alert("Thank you for the information");
 
 //Calculation for the answer.
 var degree= 180
 
 var side3 = degree - side1 - side2;
 
-alert("The ")
+alert("The missing degree angle is "+side3+"");
 
 //test code

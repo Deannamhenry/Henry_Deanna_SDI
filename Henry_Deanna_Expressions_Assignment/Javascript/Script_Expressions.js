@@ -8,7 +8,7 @@
 //tested to see if connected.);
 
 
-// Angle Calculator
+// Triangle Calculator
 
 // Welcome User
 
@@ -40,4 +40,5 @@ var side3 = degree - side1 - side2;
 
 alert("Ok "+name+", the missing degree angle is "+side3+"");
 
-//test code
+//test code. Code works entered in differnt number with calc on the side both gave same answers
+which would be 180 (degree)- side1 (50)- side2 (60) equals side3 (70)

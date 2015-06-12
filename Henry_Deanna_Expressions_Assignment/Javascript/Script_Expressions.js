@@ -23,7 +23,7 @@ alert("Thank you "+name+". Now lets figure out that missing number!")
 
 // Ask user for info on angle
 
-var side1 = prompt("Alright "+name+", What is the degree of your first side?");
+var side1 = prompt("Alright, What is the degree of your first side?");
 console.log(side1);
 
 // Ask user for side 2 of angle

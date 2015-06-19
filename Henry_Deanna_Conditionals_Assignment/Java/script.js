@@ -34,21 +34,38 @@ else
 var walls = prompt("How many walls will you be painting?");
 console.log(walls);
 
-var color = prompt("How many walls will be the another color?");
+var color = prompt("How many walls will be a accent color?");
 console.log(color);
 
-
-// calculation of walls dividing them up if need bee
+///calc for walls and color
 
 var samecolor = walls - color;
 console.log(samecolor);
 
+gallons = 400
+
+
+var buy = area / gallons;
+
+
+if(color == 0)
+{
+    alert(" You will need to buy "+buy+" gallons of paint");
+}
+
+else
+{
+    alert("Ok I have "+samecolor+" wall(s) that will be one color and "+color+" that will be another. Great!")
+}
+
+// calculation of walls dividing them up if need be and example
+
 // walls (4) - color (1) = samecolor (3)
 
+//calculation of paint needed
+
+
 //second conditional
-
-
-alert("Ok I have "+samecolor+" wall(s) that will be one color and "+color+" that will be another. Great!");
 
 var paint = prompt("how many colors will you be buying?")
 
@@ -63,16 +80,22 @@ if(paint==="")
 console.log(paint);
 
 //calculation of paint needed
-
 gallons = 400
 
-var buy = area / gallons;
 
-var color1 = area / walls;
+var buy2 = area / walls * color;
+var main = area / walls;
+var top = walls - color * main;
 
-var color 2 = color1
+var end = top / gallons;
 
 
+alert(" You will need to buy "+buy2+" gallons of paint for the accent color and "+end+" for the main color.");
+
+/* example of math
+5000 area / 10 walls = 500 for each walls *2 = 1000 for 2 accent walls
+
+ */
 
 
 

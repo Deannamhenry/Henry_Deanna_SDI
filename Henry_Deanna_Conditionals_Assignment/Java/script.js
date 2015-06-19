@@ -1,7 +1,7 @@
 /**Conditional Assignment
 * Deanna Henry
 * Section 02
-* June 18, 2015
+* June 18, 2015/ june 19, 2015
 */
 
 //alert("Welcome") TEST

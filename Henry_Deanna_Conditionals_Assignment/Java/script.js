@@ -56,7 +56,7 @@ if(color == 0)
 else
 {
     alert("Ok I have "+samecolor+" wall(s) that will be one color and "+color+" that will be another. Great!")
-}
+
 
 // calculation of walls dividing them up if need be and example
 
@@ -91,7 +91,7 @@ var end = top / gallons;
 
 
 alert(" You will need to buy "+buy2+" gallons of paint for the accent color and "+end+" for the main color.");
-
+}
 /* example of math
 5000 area / 10 walls = 500 for each walls *2 = 1000 for 2 accent walls
 

@@ -42,6 +42,7 @@ console.log(color);
 var samecolor = walls - color;
 console.log(samecolor);
 
+// square feet
 gallons = 400
 
 

@@ -20,7 +20,7 @@ else {
 
 }
 
-// code give "Please slow down to ever answer
+// code gives "Please slow down to ever answer
 
 // finally had the alert give right answers to speed input. Example 0-100 "PRYSU" 100+ "PSYSD"
 

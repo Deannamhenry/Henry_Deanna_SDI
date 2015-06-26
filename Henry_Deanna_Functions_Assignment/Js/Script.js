@@ -22,11 +22,23 @@ console.log(height)
 
 ///adding in while statemnent in case user inputs other ir wrong info.
 
-while(height==="" || isNan(height)){
+while(height==="" || isNan(height)) {
     //ask again
-    if(height===""){
-        height= prompt("please input correct information in numbers.");
+    if (height === "") {
+        height = prompt("please input correct information in numbers.");
 
+    }
+    height = prompt("Please enter in height in foot and iches.");
 }
-    height =
-console.log(height)
+    console.log(height)
+// code not functioning.
+
+var weight= prompt(What is your Weight?);
+console.log
+
+calculations of out put for body functon
+
+math1= 0.45
+//for weight
+
+var body 
